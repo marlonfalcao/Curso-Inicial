@@ -7,5 +7,5 @@ function somaDeGauss (numeroMaximo){
     
       return resultado
   }
-  console.log (somaDeGauss(7))
+  console.log (somaDeGauss(10))
   
